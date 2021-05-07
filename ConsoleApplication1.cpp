@@ -99,5 +99,6 @@ int main()
 		getdatain(f, input[ii].cmd, input[ii].brkey, input[ii].data_hash, input[ii].type, input[ii].reqid, input[ii].state);
 		printf("%s %s", input[ii].reqid, output[ii].reqid);
 	}
+	//test
 	
 }
