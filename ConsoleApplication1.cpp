@@ -100,5 +100,8 @@ int main()
 		printf("%s %s", input[ii].reqid, output[ii].reqid);
 	}
 	//test
+
+	//test lan 2
+
 	
 }
